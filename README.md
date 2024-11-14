@@ -9,7 +9,7 @@
 🔭 Working on market regime detection systems  
 
 ### Current Projects
-- 📊 **Market Regime Detection System**: Statistical analysis of market states and transitions
+- 📊 **[Market Regime Detection System](https://github.com/James-Crowley-TO/Market-Regime-Detection-System)** : Statistical analysis of market states and transitions
 
 ### Technical Stack
 - **Languages**: Python, C, SQL
