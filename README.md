@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James</h1>
+<h1 align="center">Hello World, I'm James</h1>
 <h3 align="center">Physicist Turned Quantitative Finance Developer | CFA Level 1 Candidate</h3>
 
 ### About Me
@@ -14,7 +14,7 @@
 ### Technical Stack
 - **Languages**: Python, C, SQL
 - **Libraries**: pandas, numpy, scipy
-- **Visualization**: matplotlib, seaborn, plotly
+- **Visualization**: matplotlib, seaborn
 - **Machine Learning**: scikit-learn, TensorFlow
 - **Development**: Git, Docker, Jupyter
 
@@ -22,4 +22,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-crowley-to/)
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=James-Crowley-TO&show_icons=true&theme=dark)
